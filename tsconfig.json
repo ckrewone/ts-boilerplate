@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./lib/",
+    "typeRoots" : ["./node_modules/@types", "./typings"],
     "sourceMap": true,
     "noImplicitAny": true,
     "module": "es6",

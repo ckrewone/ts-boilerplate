@@ -1,8 +1,4 @@
-export class Main {
-    constructor(){
-        console.log('Hello World!');
-    }
-}
+import {Main} from "./Main";
+
 
 new Main();
-
